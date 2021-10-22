@@ -4,7 +4,7 @@ const Menu = [{
         name: "maggi",
         category: "breakfast",
         price: "12₹",
-        description: "I love Maggi shubham realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        description: "I love Maggi shubham singh realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
     },
 
     {
