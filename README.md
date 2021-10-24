@@ -3,6 +3,8 @@
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+`About the Project`
+
 1. We will create our own API (helpful if we add another menu item it will automatically come in the website).
 
 
