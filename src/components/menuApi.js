@@ -67,7 +67,7 @@ const Menu = [{
     id: 9,
     image: "../images/samosa.jpg",
     name: "samaso",
-    category: "evening",
+    category: "evening",  /*different category only  */
     price: "10₹",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
 },
