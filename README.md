@@ -25,6 +25,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 3. git push -u origin main
 
 If hot reloading problem exists then
-1. make a .env new file and put
+1. Make a .env new file and put
 
 2. FAST_REFRESH=false 
