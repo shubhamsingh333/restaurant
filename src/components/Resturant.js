@@ -12,12 +12,12 @@ const uniqueList = [
     ),
     "All",
 ];
-
 console.log(uniqueList);
 
 const Resturant = () => {
     const [menuData, setMenuData] = useState(Menu);
     const [menuList, setMenuList] = useState(uniqueList);
+
 
     const filterItem = (category) => {
         if (category === "All") {
@@ -28,10 +28,9 @@ const Resturant = () => {
         const updatedList = Menu.filter((curElem) => {
             return curElem.category === category;
         });
-
         setMenuData(updatedList);
     };
-
+    
     return (
         <>
             <Navbar filterItem={filterItem} menuList={menuList} />
@@ -39,5 +38,4 @@ const Resturant = () => {
         </>
     );
 };
-
 export default Resturant;
